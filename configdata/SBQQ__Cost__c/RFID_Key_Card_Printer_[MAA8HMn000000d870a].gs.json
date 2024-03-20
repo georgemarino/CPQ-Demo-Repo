@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "RFID Key Card Printer",
+    "GearsetExternalId__c": "MAA8HMn000000d870a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "300.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAAOzet200000d8t10"
+      }
+    }
+  ]
+}

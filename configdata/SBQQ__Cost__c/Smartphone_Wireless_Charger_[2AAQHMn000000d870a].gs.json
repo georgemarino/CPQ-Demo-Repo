@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "Smartphone Wireless Charger",
+    "GearsetExternalId__c": "2AAQHMn000000d870a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "30.0"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAgzet200000d8t10"
+      }
+    }
+  ]
+}

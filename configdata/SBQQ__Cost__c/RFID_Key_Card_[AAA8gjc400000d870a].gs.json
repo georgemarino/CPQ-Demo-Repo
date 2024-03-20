@@ -1,0 +1,18 @@
+{
+  "Object": "SBQQ__Cost__c",
+  "Fields": {
+    "GearsetDisplayName": "RFID Key Card",
+    "GearsetExternalId__c": "AAA8gjc400000d870a",
+    "SBQQ__Active__c": "true",
+    "SBQQ__UnitCost__c": "0.5"
+  },
+  "References": [
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAAf8ft200000d8t10"
+      }
+    }
+  ]
+}
